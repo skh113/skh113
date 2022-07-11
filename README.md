@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skh113
-- 👀 I’m interested in Web-dev and Mobile-dev
-- 🌱 I’m currently learning React - ReactNative
-- 💞️ I’m looking to collaborate on real-world mobile apps
+- 👀 I’m interested in Web-dev 
+- 🌱 I’m currently learning Django framework
+- 💞️ I’m looking to collaborate on real-world web-app
 - 📫 How to reach me :
                         E-mail:skhprogramming@gmail.com
                         Telegram: @SKH113
