@@ -1,11 +1,5 @@
 # 💫 I'm Keyvan Hosseini 🤝
 
-🔭 I’m currently working on [full-stack-chatapp](https://github.com/skh113/full-stack-chatapp)
-
-🌱 I’m currently learning TypeScript
-
-💬 Ask me about Django
-
 📫 How to reach me **skhprogramming@gmail.com**
 
 ## 🌐 Socials:
